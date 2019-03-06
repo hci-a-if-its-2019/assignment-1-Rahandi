@@ -19,6 +19,7 @@ There's 4 sequential task were observed:
 1. saya: buka web taadd
 1. bukan saya: manga?
 1. saya: iya, terus buka naruto
+1. (beberapa detik digunakan untuk mencari manga naruto)
 1. bukan saya: whats???, naruto yang mana?
 1. saya: yawes seng endi ae, naruto pokok'e
 1. bukan saya: serius yang ini?
@@ -37,15 +38,16 @@ There's 4 sequential task were observed:
 1. saya: tempat unfollow'e ndek situ, cariono
 1. bukan saya: hmmm...., following updates?
 1. saya: opo iku?
-1. bukan saya: gak ngerti
-1. saya: mana unfollownya?, oh iki dicentang?, ya?
-1. bukan saya: paling...
-1. saya: terus delete iki
-1. bukan saya: coba cek bener ke-unfollow ga?
-1. saya: loh kok following'e sek 1
-1. bukan saya: coba follow maneh terus unfollow maneh
-1. saya: loh kok iso ngefollow 2 kali
-1. bukan saya: coba unfollow maneh
+1. bukan saya: gak ngerti, mana unfollownya?, oh iki dicentang?, ya?
+1. saya: paling...
+1. bukan saya: terus delete iki
+1. saya: coba cek bener ke-unfollow ga?
+1. (beberapa detik digunakan untuk mencari manga naruto)
+1. bukan saya: loh kok following'e sek 1
+1. saya: coba follow maneh terus unfollow maneh
+1. bukan saya: loh kok iso ngefollow 2 kali
+1. saya: coba unfollow maneh
+1. (beberapa detik digunakan untuk mencari manga naruto)
 1. saya: loh tetep 2
 1. bukan saya: iki gak ke-unfollow ta?
 1. saya: berarti memang web'e bermasalah
