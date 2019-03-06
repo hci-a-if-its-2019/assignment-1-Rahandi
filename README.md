@@ -1,5 +1,6 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
+![](src/homepage.PNG)
 Taad (taadd.com) is a online manga reader site that allow everyone to read manga without having to have the physical manga. Registered user are also able to bookmark their favorite manga.
 ## Instruction Script
 There's 4 sequential task were observed:
@@ -15,7 +16,39 @@ There's 4 sequential task were observed:
 - Only use internet for social media
 - Had no experience with Taadd
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+1. saya: buka web taadd
+1. bukan saya: manga?
+1. saya: iya, terus buka naruto
+1. bukan saya: whats???, naruto yang mana?
+1. saya: yawes seng endi ae, naruto pokok'e
+1. bukan saya: serius yang ini?
+1. saya: iya wes
+1. bukan saya: kan naruto yang penting
+1. saya: terus coba follow
+1. bukan saya: followingnya 0, terus nambah 1
+1. saya: iku wes ke-follow kan?
+1. bukan saya: sudah
+1. saya: saiki coba unfollow
+1. bukan saya: dimana unfollownya....
+1. saya: nemu ga?
+1. bukan saya: gak enek cuy
+1. saya: coba buka'en seng profile
+1. bukan saya: lapo kok malah ndek kene, ga nyambung
+1. saya: tempat unfollow'e ndek situ, cariono
+1. bukan saya: hmmm...., following updates?
+1. saya: opo iku?
+1. bukan saya: gak ngerti
+1. saya: mana unfollownya?, oh iki dicentang?, ya?
+1. bukan saya: paling...
+1. saya: terus delete iki
+1. bukan saya: coba cek bener ke-unfollow ga?
+1. saya: loh kok following'e sek 1
+1. bukan saya: coba follow maneh terus unfollow maneh
+1. saya: loh kok iso ngefollow 2 kali
+1. bukan saya: coba unfollow maneh
+1. saya: loh tetep 2
+1. bukan saya: iki gak ke-unfollow ta?
+1. saya: berarti memang web'e bermasalah
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
