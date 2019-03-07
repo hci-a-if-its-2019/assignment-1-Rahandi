@@ -53,9 +53,9 @@ There's 4 sequential task were observed:
 1. saya: berarti memang web'e bermasalah
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation 1](src/artifact1.png)
-![Artifact Model and Annotation 2](src/artifact2.png)
-![Artifact Model and Annotation 3](src/artifact3.png)
+![Artifact Model and Annotation 1](src/artifact1.PNG)
+![Artifact Model and Annotation 2](src/artifact2.PNG)
+![Artifact Model and Annotation 3](src/artifact3.PNG)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
