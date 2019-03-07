@@ -60,5 +60,10 @@ There's 4 sequential task were observed:
 ![Flow Model and Annotation](src/flow_model.PNG)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
-## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+## Do's
+1. Move the Top Viewed Manga List in the upper left, same with New Chapter List
+2. Change label from "following" to "follow"
+3. After the user follow the manga, change the label to "followed"
+4. Make the button change functional to unfollow if the manga is already followed
+## Don't's
+1. Don't use checkbox to unfollow manga, put a label beside the manga title instead
