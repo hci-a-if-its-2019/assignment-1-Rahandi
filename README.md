@@ -59,7 +59,7 @@ There's 4 sequential task were observed:
 ### Flow Model
 ![Flow Model and Annotation](src/flow_model.PNG)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](src/cultural_model.PNG)
 ## Do's
 1. Move the Top Viewed Manga List in the upper left, same with New Chapter List
 2. Change label from "following" to "follow"
