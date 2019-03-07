@@ -57,7 +57,7 @@ There's 4 sequential task were observed:
 ![Artifact Model and Annotation 2](src/artifact2.PNG)
 ![Artifact Model and Annotation 3](src/artifact3.PNG)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](src/flow_model.PNG)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
