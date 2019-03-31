@@ -67,3 +67,13 @@ There's 4 sequential task were observed:
 4. Make the button change functional to unfollow if the manga is already followed
 ## Don't's
 1. Don't use checkbox to unfollow manga, put a label beside the manga title instead
+
+# Remarks
+> * Thanks for completing the assignment comprehensively.
+> * The issue of `follow` UI in this case is a good one. Despite its broken functionality, I agree with the proposed `Do's` and `Don't's`.
+> * Nonetheless, the issue of `Top Viewed Manga List` is debatable. Don't you think Naruto is no longer popular now? In fact, according to the above screenshots, Naruto is not the top ten. Otherwise, it will appear on the top thumbnails.
+> * As for the `Transcript`, please change `bukan saya` string with other string, because it is indistinguishable with `saya` string and it may confuse the readers.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 8                | 0               | 88                 | 85         | 87.4  |
